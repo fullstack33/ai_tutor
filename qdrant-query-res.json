@@ -1,0 +1,33 @@
+{
+  "result": [
+    {
+      "id": 4,
+      "version": 13,
+      "score": 0.54814756,
+      "payload": {
+        "chunk_index": 4,
+        "text": " fix the  cut off  for  shortlisting  of  applications  for  SSB  based  on JEE (Main) All India \nCommon Rank List (CRL) - 2026\n. All candidates \nare required to fill their Rank as per Common Rank List (CRL) in the application. SSB interviews for shortlisted candidates will be scheduled at Bengaluru/ Bhopal/ Kolkata/ \nVisakhapatnam from \nSep 2026\n onwards. \n6.2. Shortlisted candidates will be informed about their selection for SSB interview through e-mail and SMS (provided by candidates in their application form). \nCandidates are advised \nnot to change their e-mail/ mobile number till selection process"
+      }
+    },
+    {
+      "id": 15,
+      "version": 13,
+      "score": 0.53559476,
+      "payload": {
+        "chunk_index": 15,
+        "text": "   \nNote\n: \nScan this QR Code to apply online. \n \n \nCBC            /       /           /26-27 \nTechnical Branch\n*\n \nVacancy\n \nGender\n \nAge\n \nMechanical Engineering\n \n**\n \n \n30 \nMen and Women\n \n(Maximum of 08 vacancies for women, \n04 each for Mechanical Engg and \nElectronics & Communication Engg)\n \nBorn between 02\n \nJul 2007 and 01 Jan 2010\n \n(both dates inclusive)\n \nElectronics & Communication Engineering\n \n30 \n* Candidates have to give their preference of Mechanical Engineering or Electronics"
+      }
+    },
+    {
+      "id": 16,
+      "version": 13,
+      "score": 0.533628,
+      "payload": {
+        "chunk_index": 16,
+        "text": " \n(both dates inclusive)\n \nElectronics & Communication Engineering\n \n30 \n* Candidates have to give their preference of Mechanical Engineering or Electronics & Communication Engineering during online application.  \n**\nBased on merit \nand\n \nqualification during\n \ntraining at INA, 07 candidates will \nbe streamed\n \nto\n \nB.Tech in \nNaval Architecture & Shipbuilding\n \nat\n \nNCW, Kochi\n.\n \nNote (1)\n.\n  1.1. Multiple applications, for this course by any candidate will lead to cancellation of his/ her candidature. \n              1.2. Vacancies indicated in Para 2 are tentative and may be changed depending on service requirements."
+      }
+    }
+  ],
+  "status": "ok",
+  "time": 0.000895417
+}
