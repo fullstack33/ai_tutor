@@ -3,8 +3,13 @@ module github.com/fullstack33/ai-tutor
 go 1.26.2
 
 require (
-	github.com/ledongthuc/pdf v0.0.0-20250511090121-5959a4027728 // indirect
-	github.com/qdrant/go-client v1.18.2 // indirect
+	github.com/gen2brain/go-fitz v1.24.15
+	github.com/qdrant/go-client v1.18.2
+)
+
+require (
+	github.com/ebitengine/purego v0.10.0 // indirect
+	github.com/jupiterrider/ffi v0.5.0 // indirect
 	golang.org/x/net v0.53.0 // indirect
 	golang.org/x/sys v0.43.0 // indirect
 	golang.org/x/text v0.36.0 // indirect
